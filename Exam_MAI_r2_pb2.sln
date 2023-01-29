@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_MAI_r2_pb2", "Exam_MAI_r2_pb2.csproj", "{BFF6664B-A555-40F5-82C7-8CDCB1BB584E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam_r1_pb2", "..\exam_r1_pb2\exam_r1_pb2.csproj", "{74D5DE48-AEB7-4D60-9D5F-6AD51FE39C29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BFF6664B-A555-40F5-82C7-8CDCB1BB584E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFF6664B-A555-40F5-82C7-8CDCB1BB584E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFF6664B-A555-40F5-82C7-8CDCB1BB584E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D5DE48-AEB7-4D60-9D5F-6AD51FE39C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D5DE48-AEB7-4D60-9D5F-6AD51FE39C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D5DE48-AEB7-4D60-9D5F-6AD51FE39C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D5DE48-AEB7-4D60-9D5F-6AD51FE39C29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
